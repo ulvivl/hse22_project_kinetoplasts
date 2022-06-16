@@ -1,7 +1,44 @@
 # hse22_project_kinetoplasts
 
-# Таблица с информацией по кластерам
-## № 1
+## Информация об участниках группы
+
+ФИО | Род для анализа | Ссылка на индивидуальный репозиторий
+--- | --- | ---|
+Виноградова Ульяна | Leishmania | https://github.com/ulvivl/hse22_project
+Лоскутникова	Дарья | Leishmania | https://github.com/apieceofwork/bioinf22_hse_project
+Сметанин	Антон | Trypanosoma | https://github.com/Stuksus/hse22_project
+Мозговой 	Владислав | Leptomonas, Phytomonas, Perkinsela | https://github.com/Vladm0z/hse22_project
+Пирогов	Слава | Leishmania  | https://github.com/messlav/hse22_project
+Размыслович	Арина | Trypanosoma | https://github.com/Lavriz/hse22_project
+Руденко	Анастасия | Leishmania  | https://github.com/ruanmik/hse22_project
+Ревенко	Дарья | Porcisia, Trypanosoma, Leishmania | https://github.com/DariaRev/hse22_project
+Шарафатдинов	Камиль | Nocardia | https://github.com/coteeq/hse22_project
+Каледин	Андрей | Leishmania | https://github.com/kaledinandrew/hse22_project
+
+## ![Презентация группы](https://docs.google.com/presentation/d/1xopnTzpB2WuwI916H2pskDhn7zEh3zIMFKPOwN49O7w/edit?usp=sharing)
+
+## ![Colab ноутбук](https://colab.research.google.com/drive/1tjL7gKpNsz4kJhEtosaTa0HWuSCIol_K?usp=sharing)
+
+В данном ноутбуке было сделано:
+- Создание картинок для презентации;
+- Подсчет длины генома и количества генов;
+- Применение zhunt
+- Аминокислотное выравнивание
+
+В colab ноутбуке, который находится в папке src, происходил запуск команды protheinortho
+
+## Таблица с обзором геномов
+
+Род | Средний gc | Средная длина генома | Среднее кол-во генов | Среднее число z-dna | zh-score > 500
+--- | --- | --- | ---|---|---|
+Perkinsela | 47 | 9477801 | 5252 | 853862 | 1742
+Phytomonas | 46,2 | 18129152 | 6451 | 2329561 | 8392
+Leishmania | 59,102425 | 32780421 | 8195 | 275853.5 | 7535.75
+Trypanosoma | 26,95 | 25378171 | 10994 | 78461 | 637.5
+Porcisia | 56,0229 | 34958538 | 7891 | 258204 | 4946
+Leptomonas | 56,6 | 30379903 | 10130 | 2995728 | 34665
+
+## Таблица с информацией по кластерам
 
 Номер кластера | Название вида | name | функция белка | расшировка | ccылка на источние 
 ---|---|---|---|---|---
@@ -105,14 +142,3 @@
 9 | orientalis | KAG5470033.1 | hypothetical protein | определение функции затруднено | https://en.wikipedia.org/wiki/Hypothetical_protein
 9 | pyrrhocoris | KPA84565.1 | hypothetical protein | определение функции затруднено | https://en.wikipedia.org/wiki/Hypothetical_protein
 9 | theileri | ORC88436.1 | ammecr1 | The contiguous gene deletion syndrome is characterised by Alport syndrome (A), intellectual disability (M), midface hypoplasia (M), and elliptocytosis (E), as well as generalized hypoplasia and cardiac abnormalities. It is caused by a deletion in Xq22.3, comprising several genes including ammecr1 | https://en.wikipedia.org/wiki/AMMECR1
-
-
-
-Род | Средний gc | Средная длина генома | Среднее кол-во генов | Среднее число z-dna | zh-score > 500
---- | --- | --- | ---|---|---|
-Perkinsela | 47 | 9477801 | 5252 | 853862 | 1742
-Phytomonas | 46,2 | 18129152 | 6451 | 2329561 | 8392
-Leishmania | 59,102425 | 32780421 | 8195 | 275853.5 | 7535.75
-Trypanosoma | 26,95 | 25378171 | 10994 | 78461 | 637.5
-Porcisia | 56,0229 | 34958538 | 7891 | 258204 | 4946
-Leptomonas | 56,6 | 30379903 | 10130 | 2995728 | 34665
