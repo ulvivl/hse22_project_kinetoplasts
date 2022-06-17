@@ -47,19 +47,12 @@ Leptomonas | 56,6 | 30379903 | 10130 | 2995728 | 34665
 Cluster 4 | Cluster 6
 --- | ---|
 ![image](https://user-images.githubusercontent.com/36156820/174144959-ac03dd7d-895e-4ab9-8292-dfa64cdbde4b.png) | ![image](https://user-images.githubusercontent.com/36156820/174145296-6e42c5bb-29cb-45f1-a653-d421ffcf323f.png)
-
 ![image](https://user-images.githubusercontent.com/36156820/174145094-6e6dba8f-97cf-45c2-882a-d70904330ec6.png) | ![image](https://user-images.githubusercontent.com/36156820/174145328-f8c7cd70-6994-45b5-b382-b3c267452add.png)
-
 ![image](https://user-images.githubusercontent.com/36156820/174145122-ee298111-1093-4c6d-9b80-c4ad63770a62.png) | ![image](https://user-images.githubusercontent.com/36156820/174145342-cd5c0cb2-a7ed-48be-a972-a1086812e80e.png)
-
 ![image](https://user-images.githubusercontent.com/36156820/174145149-b1bc3eab-c7e5-414c-afd1-e66824a81450.png) | ![image](https://user-images.githubusercontent.com/36156820/174145363-710d6940-b02a-4393-a3c8-4d5c51e6c09c.png)
-
 ![image](https://user-images.githubusercontent.com/36156820/174145169-f1a0f389-b01b-4a01-b3c0-e9680e81e7e1.png) | ![image](https://user-images.githubusercontent.com/36156820/174145390-bd514737-903c-4253-a040-5f402e7cb5d5.png)
-
 ![image](https://user-images.githubusercontent.com/36156820/174145183-3dd45be2-f237-4aa2-89d0-4eb6bedef598.png) | ![image](https://user-images.githubusercontent.com/36156820/174145417-8c89a640-251a-401e-bf5f-16d8bba234ac.png)
-
 ![image](https://user-images.githubusercontent.com/36156820/174145211-41db0321-8215-46f4-920b-6feba11bfc52.png) | ![image](https://user-images.githubusercontent.com/36156820/174145433-c8d65797-76a6-4361-bc73-5eb42b79040d.png)
-
 ![image](https://user-images.githubusercontent.com/36156820/174145230-d51c85b5-e807-4456-8597-5d4d557e6b56.png) | ![image](https://user-images.githubusercontent.com/36156820/174145454-341d544d-3330-46f7-b787-75661a6c0cfc.png)
 
 ## Аминокислотное выравнивание
