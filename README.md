@@ -15,9 +15,9 @@
 Шарафатдинов	Камиль | Nocardia | https://github.com/coteeq/hse22_project
 Каледин	Андрей | Leishmania | https://github.com/kaledinandrew/hse22_project
 
-## ![Презентация группы](https://docs.google.com/presentation/d/1xopnTzpB2WuwI916H2pskDhn7zEh3zIMFKPOwN49O7w/edit?usp=sharing)
+## [Презентация группы](https://docs.google.com/presentation/d/1xopnTzpB2WuwI916H2pskDhn7zEh3zIMFKPOwN49O7w/edit?usp=sharing)
 
-## ![Colab ноутбук](https://colab.research.google.com/drive/1tjL7gKpNsz4kJhEtosaTa0HWuSCIol_K?usp=sharing)
+## [Colab ноутбук](https://colab.research.google.com/drive/1tjL7gKpNsz4kJhEtosaTa0HWuSCIol_K?usp=sharing)
 
 В данном ноутбуке было сделано:
 - Создание картинок для презентации;
